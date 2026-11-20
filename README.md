@@ -48,6 +48,9 @@ STEP 6
 Paste the hash value into the Password Cracker and start the attack. The tool will try different
 passwords until it finds a match.
 
+<img width="886" height="447" alt="HASHE CALCULATOR" src="https://github.com/user-attachments/assets/422dec29-818f-4ab3-89f8-3c0a7f2ba17c" />
+
+
 
 
 
