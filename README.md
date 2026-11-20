@@ -11,3 +11,5 @@ to take the hash out of a locked PDF file. Then you will use the Password Cracke
 from that hash. Both tools run in your web browser, so you do not need to install anything.
 This lab helps you understand how password cracking works step by step and why strong passwords are
 important for protection.
+<img width="950" height="471" alt="NETWORKWALKS CRAKING TOOL" src="https://github.com/user-attachments/assets/f1c33e14-9367-4390-b676-7735c9a24c23" />
+
