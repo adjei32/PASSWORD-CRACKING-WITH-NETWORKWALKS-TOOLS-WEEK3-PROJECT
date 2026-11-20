@@ -64,6 +64,13 @@ Enter 1qaz2wsx  (which you have just cracked):
 
 <img width="591" height="401" alt="PDF PWD" src="https://github.com/user-attachments/assets/1be5efbb-b6a6-45b2-95af-9839efb6bdf0" />
 
+STEP 9
+
+Your PDF file will open. You have completed the lab.
+
+<img width="549" height="442" alt="week3 pdf3" src="https://github.com/user-attachments/assets/5c4c8c5a-c2ae-49fa-b485-cbb906bf25dd" />
+
+
 
 
 
