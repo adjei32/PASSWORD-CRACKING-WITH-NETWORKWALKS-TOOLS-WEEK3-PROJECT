@@ -25,5 +25,7 @@ https://networkwalks.com/hash-calculator/
 STEP 3
 Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash
 value that starts with $pdf$...
+<img width="860" height="454" alt="HASHE CAL" src="https://github.com/user-attachments/assets/0fc8a08f-26b6-47e9-9cb5-cd319dc13a15" />
+
 
 
