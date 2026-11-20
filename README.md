@@ -28,7 +28,9 @@ value that starts with $pdf$...
 <img width="860" height="454" alt="HASHE CAL" src="https://github.com/user-attachments/assets/0fc8a08f-26b6-47e9-9cb5-cd319dc13a15" />
 
 STEP 4
+
 Copy the full hash value.
+
 Note: Copy the complete hash starting from $pdf$. Do not miss any part of it.
 
 
