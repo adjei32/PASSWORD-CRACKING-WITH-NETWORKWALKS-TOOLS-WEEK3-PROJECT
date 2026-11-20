@@ -35,6 +35,12 @@ Note: Copy the complete hash starting from $pdf$. Do not miss any part of it.
 
 <img width="777" height="228" alt="COPY HASHE" src="https://github.com/user-attachments/assets/11df274e-2e8a-45e6-adee-b0922d65486a" />
 
+STEP 5
+
+Open the Networkwalks Password Cracker in your web browser:
+
+https://networkwalks.com/password-cracker/
+
 
 
 
