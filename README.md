@@ -60,7 +60,7 @@ Note: The time taken depends on how simple or complex the password is.
 STEP 8
 
 Open the locked PDF file and enter the cracked password.
-Enter  (which you have just cracked):
+Enter 1qaz2wsx  (which you have just cracked):
 
 
 
