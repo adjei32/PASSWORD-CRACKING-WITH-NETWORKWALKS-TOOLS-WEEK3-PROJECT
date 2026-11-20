@@ -13,3 +13,7 @@ This lab helps you understand how password cracking works step by step and why s
 important for protection.
 <img width="950" height="471" alt="NETWORKWALKS CRAKING TOOL" src="https://github.com/user-attachments/assets/f1c33e14-9367-4390-b676-7735c9a24c23" />
 
+STEP 1
+Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab page:
+https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
+
