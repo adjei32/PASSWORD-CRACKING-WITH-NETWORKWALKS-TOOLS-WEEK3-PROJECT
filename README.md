@@ -62,6 +62,9 @@ STEP 8
 Open the locked PDF file and enter the cracked password.
 Enter 1qaz2wsx  (which you have just cracked):
 
+<img width="591" height="401" alt="PDF PWD" src="https://github.com/user-attachments/assets/1be5efbb-b6a6-45b2-95af-9839efb6bdf0" />
+
+
 
 
 
