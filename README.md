@@ -55,6 +55,13 @@ STEP 7
 Wait for the tool to finish. The cracked password will be shown on the screen.
 <img width="837" height="474" alt="CRACK PWD" src="https://github.com/user-attachments/assets/a81088ca-6022-4a28-9578-dcc1523b4b1e" />
 
+Note: The time taken depends on how simple or complex the password is.
+
+STEP 8
+
+Open the locked PDF file and enter the cracked password.
+Enter  (which you have just cracked):
+
 
 
 
