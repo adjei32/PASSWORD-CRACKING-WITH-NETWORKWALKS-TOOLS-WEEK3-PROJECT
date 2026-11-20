@@ -41,6 +41,9 @@ Open the Networkwalks Password Cracker in your web browser:
 
 https://networkwalks.com/password-cracker/
 
+<img width="801" height="364" alt="PASSWORD CRACKING" src="https://github.com/user-attachments/assets/cb3a299c-212a-4504-a5bb-86010e35f189" />
+
+
 
 
 
