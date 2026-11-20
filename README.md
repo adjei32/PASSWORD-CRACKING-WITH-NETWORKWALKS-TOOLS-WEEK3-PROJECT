@@ -17,3 +17,7 @@ STEP 1
 Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab page:
 https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
 
+STEP 2
+Open the Networkwalks Hash Calculator in your web browser:
+https://networkwalks.com/hash-calculator/
+
